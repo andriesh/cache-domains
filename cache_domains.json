@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
+                {
+                        "name": "kinopub",
+                        "description": "Kino Pub",
+                        "domain_files": ["kinopub.txt"]
+                }
 	]
 }
