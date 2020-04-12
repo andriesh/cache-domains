@@ -126,6 +126,11 @@
                         "name": "kinopub",
                         "description": "Kino Pub",
                         "domain_files": ["kinopub.txt"]
-                }
+                },
+		{
+			"name": "pluralsight",
+			"description": "Pluralsight",
+			"domain_files": ["pluralsight"]
+		}
 	]
 }
